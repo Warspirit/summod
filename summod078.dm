@@ -10176,6 +10176,9 @@ automatically casts Celestial Music, and the Devata, which autocasts Antimagic."
 #gcost 10017
 #att 12
 #end
+#selectmonster 1133 --Light Bandar Warrior -1 gold
+#gcost 10017
+#end
 #selectmonster 1134--Royal Swordsman -1 gold
 #gcost 10022
 #att 13
