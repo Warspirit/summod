@@ -1877,7 +1877,13 @@ These scouts will become commanders after recruitment."
 #gcost 10020
 #end
 
-#selectmonster 	1078 -- EA arco chariot archer
+#selectmonster 	1079 -- EA arco chariot archer
+#ressize  2
+#rcost 8
+#gcost 10030
+#end
+
+#selectmonster 	1080 -- EA arco archerless chariot 
 #ressize  2
 #rcost 8
 #gcost 10030
