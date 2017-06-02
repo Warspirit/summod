@@ -2832,7 +2832,7 @@ These scouts will become commanders after recruitment."
 #mainlevel 1
 #constlevel 6
 #giftofwater 80
-#descr "These pills grant waterbreathing ability to 40 soldiers."
+#descr "These pills can grant up to 80 soldiers the ability to breathe water."
 #end
 
 #selectitem 242	 --	Ring of Warning -> Patrol 25
