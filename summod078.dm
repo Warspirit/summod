@@ -899,6 +899,10 @@ These scouts will become commanders after recruitment."
 #selectweapon 537 -- Flick Barbs
 #end
 
+#selectweapon 640 – Coral Tipped Javelin
+#secondaryeffect 1413
+#end
+
 #selectweapon 71 -- sleepvines
 --#norepel
 #end
